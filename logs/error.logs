@@ -1,0 +1,4 @@
+2020-14-12 15:14:00.499 [main] ERROR PasswordCheck - Hello this is an error message
+2020-14-12 15:14:00.499 [main] FATAL PasswordCheck - Hello this is a fatal message
+2020-18-12 15:18:12.775 [main] ERROR PasswordCheck - Password is invalid
+2020-18-12 15:18:12.780 [main] ERROR PasswordCheck - Password is never OK
